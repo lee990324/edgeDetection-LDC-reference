@@ -3,6 +3,18 @@
 ![Lines-of-Code](https://raw.githubusercontent.com/xavysp/LDC/gh-pages/loc-badge.svg)
 [![Hits-of-Code](https://hitsofcode.com/github/xavysp/LDC)](https://hitsofcode.com/view/github/xavysp/LDC)
 
+# Edge Detection LDC(Lightweight Dense CNN for Edge Detection)
+
+'[프로젝트] 손톱 모세혈관 영상 기반 비침습 백혈구 수치 측정 시스템'에서 Edge Detection을 통해 백혈구의 디텍션의 정확도를 높이기 위해서 사용되었습니다. <br>
+
+[WBC-프로젝트](https://github.com/lee990324/wbc-counting-project) <br>
+[**Paper**](https://ieeexplore.ieee.org/document/9807316)
+[DexiNed](https://github.com/xavysp/DexiNed) <br>
+[BIPED](https://www.kaggle.com/datasets/xavysp/biped) <br>
+[MDBD](https://paperswithcode.com/sota/edge-detection-on-mdbd) <br>
+[RINDNet](https://github.com/MengyangPu/RINDNet) <br>
+[BRIND](https://github.com/xavysp/BRIND) <br>
+
 # LDC: Lightweight Dense CNN for Edge Detection (In construction)
 With the same purpose and features as [DexiNed](https://github.com/xavysp/DexiNed), LDC is a straightforward CNN based model
 for edge detection. LDC has just ~0.7M parameters, it can reduce your time of training and testing. This model is trained
