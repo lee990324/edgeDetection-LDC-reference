@@ -8,7 +8,7 @@
 '[프로젝트] 손톱 모세혈관 영상 기반 비침습 백혈구 수치 측정 시스템'에서 Edge Detection을 통해 백혈구의 디텍션의 정확도를 높이기 위해서 사용되었습니다. <br>
 
 [WBC-프로젝트](https://github.com/lee990324/wbc-counting-project) <br>
-[**Paper**](https://ieeexplore.ieee.org/document/9807316)
+[**Paper**](https://ieeexplore.ieee.org/document/9807316) <br>
 [DexiNed](https://github.com/xavysp/DexiNed) <br>
 [BIPED](https://www.kaggle.com/datasets/xavysp/biped) <br>
 [MDBD](https://paperswithcode.com/sota/edge-detection-on-mdbd) <br>
